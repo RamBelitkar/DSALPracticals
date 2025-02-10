@@ -119,7 +119,7 @@ int main(){
         switch(ch){
         
             case 1:
-                cout<<"Enter the expression (eg.: +--a*bc/def):\t";
+                cout<<"Enter the expression :\t";
                 cin>>exp1;
                 t.expression(exp1);
                 break;
